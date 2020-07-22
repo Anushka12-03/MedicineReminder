@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    <string name="click_on_the_button_below_to_begin_with_creating_your_medicine_reminder">Click on the button below to begin with creating your Medicine Reminder!!</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+</resources>

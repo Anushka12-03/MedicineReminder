@@ -1,0 +1,4 @@
+#Tue Jul 21 13:22:40 IST 2020
+base.0=C\:\\Users\\91880\\MedicineReminder\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
